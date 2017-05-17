@@ -1,5 +1,5 @@
 # Bitcoin-price-forecast
-2 Hidden Markov Models are used to guide Monte Carlo simulation. The data is analyzed with Principal Component analysis and Hierarchical Clustering. The best forecast will be the nearest-neighbor of 'bitcoin.csv', or the input data, from the Hierarchical Clustering analysis. 
+2 Hidden Markov Models are used to guide Monte Carlo simulation. The data is analyzed with Principal Component Analysis and Hierarchical Clustering. The best forecast will be the nearest-neighbor of 'bitcoin.csv', or the input data, from the Hierarchical Clustering analysis. 
 ## Requirements
 Python
 ## Usage
@@ -20,7 +20,7 @@ bash submit.sh
 A dendrogram will appear and the nearest-neighbor to 'bitcoin.csv' will be the best forecast from the simulations. 
 
 ## License
-This program is licensed under the terms of the MIT license. See [LICENSE.txt]() for more information. 
+This program is licensed under the terms of the MIT license. See [LICENSE.txt](https://github.com/ktrujillo52/Bitcoin-price-forecast/blob/master/LICENSE.txt) for more information. 
 
 ## Questions
 Please forward any questions or troubleshooting issues to k.trujillo52@gmail.com
