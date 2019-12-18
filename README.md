@@ -5,9 +5,9 @@ Python
 ## Usage
 Please ensure you have the following directory structure and replace the path variables at the top of each python script:
 ```
-Date
+Repository
 |-- data                #contains input data and will contain csv data generated from HMM and Monte Carlo simulation
-    |-- bitcoin.csv     #input data
+    |-- data.csv     #input data
 |-- png                 #plots generated from HMM and Monte Carlo simulation
 |-- pca_csv             #Contains scaled simulation data
 |-- pca_png             #Principal Component Analysis plots
